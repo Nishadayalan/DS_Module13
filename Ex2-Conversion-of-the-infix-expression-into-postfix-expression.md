@@ -15,7 +15,6 @@ operators.
 
 ## Program:
 ```
-/*
 Program to convert the infix expression into postfix expression
 
 Developed by: NISHA D.
@@ -99,7 +98,7 @@ char exp[100]="3%2+4*(A&B)";
 IntoPost(exp); 
 return 1; 
 } 
-*/
+
 ```
 
 ## Output:
